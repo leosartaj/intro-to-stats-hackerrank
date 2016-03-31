@@ -6,4 +6,3 @@ if __name__ == '__main__':
     print rv.cdf(40)
     print 1 - rv.cdf(21)
     print rv.cdf(35) - rv.cdf(30)
-
